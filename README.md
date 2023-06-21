@@ -1,2 +1,2 @@
-# dicoding_belajar-membuat-aplikasi-backend-untuk-pemula
-Project Akhir Dicoding - Belajar Membuat Aplikasi Back-End untuk Pemula
+# Project Akhir Dicoding - Belajar Membuat Aplikasi Back-End untuk Pemula
+Submission untuk project akhir materi Dicoding: Belajar Membuat Aplikasi Back-End untuk Pemula
